@@ -78,7 +78,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 13. [Ławrynowicz Jacek (MongoDB)](https://github.com/jlawrynowicz/projekty-nosql)
 14. Mielewczyk Łukasz
 15. Nadoba Adam
-16. Pieper Adrian
+16. [Pieper Adrian](https://github.com/adrpieper/ug-nosql-project)
 17. Seroka Paulina
 18. Sielachowicz Paweł
 19. Smogór Tomasz
